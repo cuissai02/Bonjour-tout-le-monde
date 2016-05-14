@@ -16,3 +16,10 @@ Volontairement en Français, car nous souhaitons, aggréger des compétences, de
   - A tester, Heroku, associé à la technologie Docker, on peut imaginer des environnements scalables, stables et robutes qui évitent l'utilisation d'environnements virtualisés complexes.
 
 
+# Liens sur les dockers qui nous semble interressant
+
+  - Meteor 
+  - MongoDB
+  - NodeJs
+  - Pyton
+  - Neo4j
