@@ -21,13 +21,17 @@ Pour prévisualiser votre code html.
 accélère l'utilisation de bootstrap3.  
 [atom-bootstrap4](https://atom.io/packages/atom-bootstrap4)  
 Au choix, accélère l'utilisation de bootstrap4.  
+[react](https://atom.io/packages/react)  
+un package pour travailler efficacement avec ReactJS.  
 
 [linter](https://atom.io/packages/linter)  
 Fournit une API de haut niveau qui permet de visualiser les erreurs et d'autres messages, facilement.  
 [linter-htmlhint](https://atom.io/packages/linter-htmlhint)  
 [htmlhint](https://atom.io/packages/htmlhint)  
-Les erreurs et d'autres messages, dans les fichiers de type HTML.  
+Visualiser les erreurs dans les fichiers de type HTML.  
 [linter-jsonlint](https://atom.io/packages/linter-jsonlint)  
-Visualiser les erreurs et d'autres messages, dans les fichiers JSON.  
+Visualiser les erreurs dans les fichiers JSON.  
 
+[linter-python](https://atom.io/packages/linter-python)  
+Visualiser les erreurs dans les fichiers python. 
 
