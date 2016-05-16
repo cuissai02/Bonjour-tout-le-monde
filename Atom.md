@@ -3,6 +3,8 @@
 
 
 ## Les différents packages utilisés
+[Project Manager](https://atom.io/packages/project-manager)  
+La gestion des différents projets.  
 [atom-terminal-panel](https://atom.io/packages/atom-terminal-panel)  
 Parce que travailler avec un terminal c'est toujours pratique.  
 [color-picker](https://atom.io/packages/color-picker)  
@@ -20,8 +22,7 @@ Au choix, accélère l'utilisation de bootstrap4.
 
 
 
-[atom-bootstrap4](https://atom.io/packages/atom-bootstrap4)  
-Au choix, accélère l'utilisation de bootstrap.  
+
 
 [atom-bootstrap4](https://atom.io/packages/atom-bootstrap4)  
 Au choix, accélère l'utilisation de bootstrap.  
