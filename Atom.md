@@ -32,6 +32,9 @@
 ###[react](https://atom.io/packages/react)  
 **un package pour travailler efficacement avec ReactJS.**  
 
+###[linter-jscs](https://atom.io/packages/linter-jscs)  
+**Visualiser les erreurs dans les fichiers javascript, coopere avec react package.**  
+
 ---  
 
 ##Lint  
@@ -46,3 +49,26 @@
 ###[linter-python](https://atom.io/packages/linter-python)  
 **Visualiser les erreurs dans les fichiers python.** 
 
+
+###[jshint-snippets](https://atom.io/packages/jshint-snippets)  
+**Visualiser les erreurs dans les fichiers javascript.**  
+
+###[atom-lint](https://atom.io/packages/atom-lint)  
+**Visualiser les erreurs dans plusieurs code générique.**  
+ flake8 pour Python,  JSHint JavaScript, etc
+
+
+###[eslint](https://atom.io/packages/eslint)  
+**Visualiser les erreurs dans les fichiers javascript.**  
+###[linter-eslint](https://atom.io/packages/linter-eslint)  
+**Visualiser les erreurs dans les fichiers javascript.**  
+###[jslint](https://atom.io/packages/jslint)  
+**Visualiser les erreurs dans les fichiers javascript.** 
+###[linter-jshint](https://atom.io/packages/linter-jshint)  
+**Visualiser les erreurs dans les fichiers javascript.**  
+###[atom-jshint](https://atom.io/packages/atom-jshint)  
+**Visualiser les erreurs dans les fichiers javascript.**  
+###[linter-js-standard](https://atom.io/packages/linter-js-standard)  
+**Visualiser les erreurs dans les fichiers javascript.**  
+###[linter-gjslint](https://atom.io/packages/linter-gjslint)  
+**Visualiser les erreurs dans les fichiers javascript, avec google jslint sur votre machine.**  
