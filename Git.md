@@ -1,4 +1,5 @@
-## Installez Git et GitHub Desktop
+## Installez Git et GitHub Desktop  
+
 Contribuer sur des projets GitHub.
 
 [Git](https://git-scm.com/)  
