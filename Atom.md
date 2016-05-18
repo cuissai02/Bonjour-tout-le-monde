@@ -32,6 +32,8 @@
 ###[react](https://atom.io/packages/react)  
 **un package pour travailler efficacement avec ReactJS.**  
 
+
+https://atom.io/packages/language-babel
 ###[linter-jscs](https://atom.io/packages/linter-jscs)  
 **Visualiser les erreurs dans les fichiers javascript, coopere avec react package.**  
 
