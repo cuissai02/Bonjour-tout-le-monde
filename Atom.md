@@ -26,14 +26,15 @@
 ###[atom-html-preview](https://atom.io/packages/less-than-slash)  
 **Pour prévisualiser votre code html.**  
 ###[atom-bootstrap3](https://atom.io/packages/atom-bootstrap3)  
-**accélère l'utilisation de bootstrap3.**  
+**Accélère l'utilisation de bootstrap3.**  
 ###[atom-bootstrap4](https://atom.io/packages/atom-bootstrap4)  
 **Au choix, accélère l'utilisation de bootstrap4.**  
 ###[react](https://atom.io/packages/react)  
-**un package pour travailler efficacement avec ReactJS.**  
+**Un package pour travailler efficacement avec ReactJS.**  
+###[language-babel](https://atom.io/packages/language-babel)  
+**Utile avec ReactJS.**  
 
 
-https://atom.io/packages/language-babel
 ###[linter-jscs](https://atom.io/packages/linter-jscs)  
 **Visualiser les erreurs dans les fichiers javascript, coopere avec react package.**  
 
@@ -44,28 +45,26 @@ https://atom.io/packages/language-babel
 ###[linter](https://atom.io/packages/linter)  
 **Fournit une API de haut niveau qui permet de visualiser les erreurs et d'autres messages, facilement.**  
 ###[linter-htmlhint](https://atom.io/packages/linter-htmlhint)  
-###[htmlhint](https://atom.io/packages/htmlhint)  
 **Visualiser les erreurs dans les fichiers de type HTML.**  
 ###[linter-jsonlint](https://atom.io/packages/linter-jsonlint)  
 **Visualiser les erreurs dans les fichiers JSON.**  
 ###[linter-python](https://atom.io/packages/linter-python)  
-**Visualiser les erreurs dans les fichiers python.** 
+**Visualiser les erreurs dans les fichiers python.**   
+
+---
+
+
+
 
 
 ###[jshint-snippets](https://atom.io/packages/jshint-snippets)  
 **Visualiser les erreurs dans les fichiers javascript.**  
-
-###[atom-lint](https://atom.io/packages/atom-lint)  
-**Visualiser les erreurs dans plusieurs code générique.**  
- flake8 pour Python,  JSHint JavaScript, etc
-
-
 ###[eslint](https://atom.io/packages/eslint)  
 **Visualiser les erreurs dans les fichiers javascript.**  
 ###[linter-eslint](https://atom.io/packages/linter-eslint)  
 **Visualiser les erreurs dans les fichiers javascript.**  
 ###[jslint](https://atom.io/packages/jslint)  
-**Visualiser les erreurs dans les fichiers javascript.** 
+**Visualiser les erreurs dans les fichiers javascript.**
 ###[linter-jshint](https://atom.io/packages/linter-jshint)  
 **Visualiser les erreurs dans les fichiers javascript.**  
 ###[atom-jshint](https://atom.io/packages/atom-jshint)  
