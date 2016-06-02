@@ -1,7 +1,7 @@
 # Présentation générale
 L'intelligence artificielle au service de la gestion des connaissances.
 
-    >Volontairement en Français, car nous souhaitons, aggréger des compétences, des opportunités et des affinités Francophones autour de ce projet.
+<Volontairement en Français, car nous souhaitons, aggréger des compétences, des opportunités et des affinités Francophones autour de ce projet.>
 
 # Environnement technologique
 
@@ -17,5 +17,5 @@ L'intelligence artificielle au service de la gestion des connaissances.
 
   - A tester, [Heroku](https://www.heroku.com/home), associé à la technologie [Docker](https://www.docker.com/), on peut imaginer des environnements scalables, stables et robutes qui évitent l'utilisation d'environnements virtualisés complexes.
   
-  -A tester la plateforme [Galaxy de Meteor.](https://www.meteor.com/galaxy/signup)
+  - A tester la plateforme [Galaxy de Meteor.](https://www.meteor.com/galaxy/signup)
   
