@@ -19,6 +19,7 @@ L'intelligence artificielle au service de la gestion des connaissances.
   - Pourquoi le moteur de recherche doit comprendre la signification des mots-clefs, saisis lors de la recherche.
   - Pourquoi résumer le contenu pertinent autour d'un sujet, et les principaux faits dont vous êtes susceptibles d'avoir besoin
   - Pourquoi étudier l'ensemble des recherches sur chaque élément. Savoir ce que Charles Dickens a écrit.
+  - Affiche l'information en apprennant intuitivement de la modélisation de votre historique de recherche, et fournir la bonne information exactement quand vous en avez besoin.
   - Pourquoi comprendre les relations entre les objets. Une personne a des enfants, des parents, un conjoint, tous ces éléments sont liés dans un graphe. On obtient un catalogue d'objets, avec des modèles de tous ces interrelations. C'est l'intelligence entre ces différentes entités qui est la clé.
   - Pourquoi faire des découvertes inattendues pour découvrir un fait nouveau ou une nouvelle connexion qui invite une toute nouvelle ligne de recherche.
   - La recherche parfaite devrait comprendre exactement ce que vous voulez dire et vous redonner exactement ce que vous voulez.
@@ -44,6 +45,17 @@ La prochaine génération de recherche, puisera dans l'intelligence collective d
 La recherche satisfait la découverte, le besoin humain fondamental d'apprendre et d'élargir son horizon.
 
 Les trois fonctions d'un moteur de recherche   répondre, converser et anticiper
+
+
+    Social data
+    Text mining
+    Search marketing
+    Risk management
+    Survey analysis
+    Consumer privacy
+    Sales force optimization
+
+
 
 # Environnement technologique
 
