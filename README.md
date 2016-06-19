@@ -1,7 +1,7 @@
 # Présentation générale
 L'intelligence artificielle au service de la gestion des connaissances.
 &nabla; 
-'&#x25A1' &#x25A1
+\lceil
 >Volontairement en Français, car nous souhaitons, aggréger des compétences, des opportunités et des affinités Francophones autour de ce projet.
 
 # La problématique
