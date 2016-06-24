@@ -1,6 +1,5 @@
-\\begin{cases} x+y=3\\\ z-3x=2\\\ 5y-z=2\\end{cases}
-
 # Présentation générale
+
 L'intelligence artificielle au service de la gestion des connaissances.
 
 >Volontairement en Français, car nous souhaitons, aggréger des compétences, des opportunités et des affinités Francophones autour de ce projet.
