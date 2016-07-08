@@ -2,7 +2,9 @@
 
   - Editeur de texte [Atom](https://github.com/cuissai02/Hello-world/blob/master/Atom.md) pour sa facilité d'interface avec github
   
-  - Git et GitHub Desktop pour interfacer avec les dépots GitHub 
+  - [Git](https://git-scm.com/) ou [GitHub Desktop](https://desktop.github.com/) pour interfacer avec les dépots GitHub 
+  
+  - [Pandoc] (http://pandoc.org/try/) un convertisseur de document universel, pour la gestion des formats [demo](http://pandoc.org/demos.html), avec reveal.js pour les [slides html](https://slides.com/)
   
   - Les langages privilégiés JavaScript et Python. Les derniéres évolution technologique en particulier autour de NodeJs, ReactJs, Meteor permettent aujourd'hui de développer la chaine compléte du serveur à l'interface dans un seul langage. Python sera lui privilégier pour sa facilité d'utilisation dans le machine learning.
 
