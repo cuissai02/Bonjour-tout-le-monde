@@ -17,10 +17,10 @@ Sortie: le plus grand commun diviseur de m et n
 
 ```
 Calcul_du_PGDC(m,n)  
-tant que n $\neq$ 0 faire  
-  r $\leftarrow$ m $mod$ n  
-  m $\leftarrow$ n  
-  n $\leftarrow$ r  
+tant que n \$\\neq\$ 0 faire  
+  r \$\\leftarrow\$ m \$mod\$ n  
+  m \$\\leftarrow\$ n  
+  n \$\\leftarrow\$ r  
 retourner m 
 ```
 
