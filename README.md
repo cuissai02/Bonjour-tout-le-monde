@@ -15,6 +15,8 @@ Sortie: le plus grand commun diviseur de m et n
         n $\leftarrow$ r  
     retourner m  
 
+>> fsese
+
 
 
 
