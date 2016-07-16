@@ -13,7 +13,6 @@ Sortie: le plus grand commun diviseur de m et n
 >> r $\leftarrow$ m $mod$ n  
 >> m $\leftarrow$ n  
 >> n $\leftarrow$ r  
-
 >retourner m  
 
 
