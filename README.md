@@ -4,29 +4,6 @@ L'intelligence artificielle au service de la gestion des connaissances.
 
 Volontairement en Français, car nous souhaitons, aggréger des compétences, des opportunités et des affinités Francophones autour de ce projet.
 
-Sinon, nous pouvons exprimer le même algorithme de pseudocode:  
-Calcul du PGDC(m,n), par l'algorithme d'Euclide  
-Entrée: Deux nombres entiers non négatifs, et non nul m et n  
-Sortie: le plus grand commun diviseur de m et n  
-> Calcul_du_PGDC(m,n)  
-> tant que n $\neq$ 0 faire  
->> r $\leftarrow$ m $mod$ n  
->> m $\leftarrow$ n  
->> n $\leftarrow$ r  
->>> rzsr   
-
-```
-Calcul_du_PGDC(m,n)  
-tant que n \$\\neq\$ 0 faire  
-  r \$\\leftarrow\$ m \$mod\$ n  
-  m \$\\leftarrow\$ n  
-  n \$\\leftarrow\$ r  
-retourner m 
-```
-
-> 
-
-
 # La problématique
 ## Les hyphothéses de Google  
 [Le pagerank et la popularité d'un site web](http://www.pagerank.fr/).  
