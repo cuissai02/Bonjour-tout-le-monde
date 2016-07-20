@@ -10,7 +10,7 @@
 
 # Présentation générale
 
-L'intelligence artificielle au service de la gestion des connaissances.
+L'intelligence artificielle au service de la gestion de la connaissance.
 
 Volontairement en Français, car nous souhaitons, aggréger des compétences, des opportunités et des affinités Francophones autour de ce projet.
 
@@ -42,6 +42,11 @@ Volontairement en Français, car nous souhaitons, aggréger des compétences, de
 [Un moteur de réponses](https://fr.wikipedia.org/wiki/Syst%C3%A8mes_de_questions-r%C3%A9ponses)  
   - [WolframAlpha](https://fr.wikipedia.org/wiki/WolframAlpha) contient environ 10 milliards d'informations, plus de 50 000 types d'algorithmes et de modèles, et des capacités linguistiques pour plus de 1 000 domaines.
 
+## Les hypothéses Facebook
+  - Un réseau d'amis qui alimentent un mur (qui pourrait représenter ce qu'est l'individu possesseur de compte)
+  - Le régne de la critique et du voyeurisme
+  - Une construction boîte noire de la personnalité qui permet un profilage marketing
+
 ## Les hypothéses Wikipédia
   Une encyclopédie collective, universelle, multilingue et fonctionnant sur le principe du [wiki](https://fr.wikipedia.org/wiki/Wiki). Un contenu librement réutilisable, objectif et vérifiable, que chacun peut modifier et améliorer.
     - Pourquoi pas de travaux inédits, innovation et champs des possibles réduits.
@@ -62,11 +67,11 @@ Une solution de gestion de la connaissance conçu pour aider les utilisateurs à
 
 Les mots d'une recherche peuvent avoir un sens beaucoup plus riche que leur définition, selon le contexte dans lequel vous vous trouvez. Un modèle qui comprend les entités du monde réel et leurs relations les uns aux autres: les objets, et non simplement des chaînes de caractéres.
 
-La prochaine génération de recherche, puisera dans l'intelligence collective du Web et comprendra le monde un peu plus comme les humains.
-La recherche satisfait la découverte, le besoin humain fondamental d'apprendre et d'élargir son horizon.
+La prochaine génération de recherche, puisera dans l'intelligence collective du Web et comprendra le monde un peu plus comme les humains. La recherche satisfait la découverte, le besoin humain fondamental d'apprendre et d'élargir son horizon.
 
 Les trois fonctions d'un moteur de recherche   répondre, converser et anticiper
 
+Les fonctions essentiels d'un reseau de relation, savoir ce que l'autre fait, où il est, dans quel disposition il est, et ce qu'il pourrait me recommander dans un contexte donné.
 
     Social data
     Text mining
