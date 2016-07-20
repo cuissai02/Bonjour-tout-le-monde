@@ -10,7 +10,7 @@
 
 # Présentation générale
 
-L'intelligence artificielle au service de la gestion de la connaissance.
+L'intelligence artificielle au service de la gestion de la connaissance. La connaissance c'est un peu comme une valise, lorsque l'on part en voyage, elle correspond à mes besoins non quand il n'y a plus rien à ajouter, mais quand il n'y a plus rien à retirer.
 
 Volontairement en Français, car nous souhaitons, aggréger des compétences, des opportunités et des affinités Francophones autour de ce projet.
 
