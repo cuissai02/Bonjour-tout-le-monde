@@ -1,7 +1,8 @@
  ************************************************************************************************
 
-# Un concepteur sait qu'il est arrivé à la perfection non quand il n'y a plus rien à ajouter, 
-mais quand il n'y a plus rien à retirer."Antoine de Saint-Exupery 
+## Un Projet atteind la perfection non quand il n'y a plus rien à ajouter, mais quand il n'y a plus rien à retirer.
+
+>Antoine de Saint-Exupery 
 
  ************************************************************************************************
 
