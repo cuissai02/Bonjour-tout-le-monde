@@ -12,7 +12,7 @@
 |2|    objet ← A[i] | c2 | n − 1 |
 |3|    // Insère A[i] dans la suite triée A[1 . . i − 1]. | 0 | n − 1 |
 |4|        j ← i − 1 | c4 | n − 1 |
-|5|        tant que j > 0 et A[j] > objet faire | c5 | \\(\\sum\_{i=2}\^{n} t\_{i}\\) |
+|5|        tant que j > 0 et A[j] > objet faire | c5 | $\\sum\_{i=2}\^{n} t\_{i}$ |
 |6|            A[j + 1] ← A[j] | c6 | nj=2(tj − 1) |
 |7|            j ← j − 1 | c7 | nj=2(tj − 1) |
 |8|A[j + 1] ← objet | c8 | n − 1 |
