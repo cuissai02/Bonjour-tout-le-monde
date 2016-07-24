@@ -2,7 +2,7 @@
 
 ## Un Grand Projet c'est un peu comme une valise !
 
-elle est remplie à la perfection non quand il n'y a plus rien à ajouter, mais quand il n'y a plus rien à retirer. Si tu ne sais pas ce que tu veux y mettre, apprend à voir ce qu'elle ne doit pas être.
+Elle est remplie à la perfection non quand il n'y a plus rien à ajouter, mais quand il n'y a plus rien à retirer. Si tu ne sais pas ce que tu veux y mettre, apprend à voir ce qu'elle ne doit pas être.
 
 > Inspiré d'Antoine de Saint-Exupery 
 
