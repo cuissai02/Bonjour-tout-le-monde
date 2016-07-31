@@ -26,13 +26,13 @@
 -	1.1.6 Comment spécifier un algorithme, le pseudocode
 
 	-	(1.2 Notation le pseudocode)[pseudocode.md] et Notation Mathematique 
-			-	1.3.1 Calcul propositionnel
-			-	1.3.2 Théorie des ensembles
-			-	1.3.3 Entiers, nombres réels et intervalles 
-			-	1.3.4 Fonctions et relations
-			-	1.3.5 Les quantificateurs
-			-	1.3.6 Somme et produits 
-			-	1.3.7 Divers
+	-	1.3.1 Calcul propositionnel
+	-	1.3.2 Théorie des ensembles
+	-	1.3.3 Entiers, nombres réels et intervalles 
+	-	1.3.4 Fonctions et relations
+	-	1.3.5 Les quantificateurs
+	-	1.3.6 Somme et produits 
+	-	1.3.7 Divers
 
 -	1.1.7 Prouver qu’un algorithme est correct
 -	1.1.8 Analyser un algorithme
